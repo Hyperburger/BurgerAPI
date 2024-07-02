@@ -1,0 +1,9 @@
+name: BurgerAPI
+version: '1.0-SNAPSHOT'
+main: hyperburger.me.burgerapi.BurgerAPI
+api-version: '1.20'
+commands:
+  spawnnpc:
+    description: Spawns an NPC at your location or a specified player's location
+    usage: /<command> <name> [player]
+    permission: nmsapi.spawnnpc

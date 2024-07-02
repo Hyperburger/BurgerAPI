@@ -1,0 +1,5 @@
+hyperburger\me\burgerapi\BurgerAPI.class
+hyperburger\me\burgerapi\nms\v1_20_R3\NMSHandler.class
+hyperburger\me\burgerapi\nms\INMS.class
+hyperburger\me\burgerapi\SpawnNPCCommand.class
+hyperburger\me\burgerapi\nms\NMS.class
